@@ -12,3 +12,9 @@ Process:
   - Return a dataframe with the energy level for each spike and the start and end times in the video.
 5. Cut the video according to the audio clips set by the df.
 6. Combine all clips into one highlights video for viewing.
+
+Learning Resources:
+
+- https://www.analyticsvidhya.com/blog/2019/09/guide-automatic-highlight-generation-python-without-machine-learning/
+- https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/
+
